@@ -1,15 +1,32 @@
 /* main
 compomemts import */
 
-@import "_normalize.css";
+@import url("../css/_normalize.css");
+@import url("../css/_fonts.css");
+@import url("../css/_global.css");
+@import url("../css/_overall.css");
+@import url("../css/_variables.css");
+@import url("../css/_vendor.css");
+
+
+/* @import "_normalize.css";
 @import "_fonts.css";
 @import "_global.css";
 @import "_overall.css";
 @import "_variables.css";
-@import "_vendor.css";
+@import "_vendor.css"; */
 
+@import url("../css/components/_header.css");
+@import url("../css/components/_first.css");
+@import url("../css/components/_become.css");
+@import url("../css/components/_featured.css");
+@import url("../css/components/_slider.css");
+@import url("../css/components/_newsletter.css");
+@import url("../css/components/_insp.css");
+@import url("../css/components/_footer.css");
+@import url("../css/components/_media.css");
 
-@import "/css/components/_header.css";
+/* @import "/css/components/_header.css";
 @import "/css/components/_first.css";
 @import "/css/components/_become.css";
 @import "/css/components/_featured.css";
@@ -17,4 +34,4 @@ compomemts import */
 @import "/css/components/_newsletter.css";
 @import "/css/components/_insp.css";
 @import "/css/components/_footer.css";
-@import "/css/components/_media.css";
+@import "/css/components/_media.css"; */
