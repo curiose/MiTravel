@@ -27,15 +27,13 @@ compomemts import */
 @import "css/components/_footer.css";
 @import "css/components/_media.css"; */
 
-/* @import "components/_header.css";
-@import "components/_first.css";
-@import "components/_become.css";
-@import "components/_featured.css";
-@import "components/_slider.css";
-@import "components/_newsletter.css";
-@import "components/_insp.css";
-@import "components/_footer.css";
-@import "components/_media.css"; */
-
-
 @import "components/header.css";
+@import "components/first.css";
+@import "components/become.css";
+@import "components/featured.css";
+@import "components/slider.css";
+@import "components/newsletter.css";
+@import "components/insp.css";
+@import "components/footer.css";
+@import "components/media.css";
+
